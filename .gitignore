@@ -1,0 +1,11 @@
+node_modules/
+.next/
+dist/
+.env
+*.log
+.turbo/
+.docker-data/
+__pycache__/
+.venv/
+*.pyc
+output/
