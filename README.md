@@ -228,3 +228,4 @@ Required GitHub secrets:
 | Build | Turborepo, tsup |
 | CI/CD | GitHub Actions |
 | Infra | Docker, Nginx |
+# mosque-platform
