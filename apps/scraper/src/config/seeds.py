@@ -1,0 +1,28 @@
+WIKIPEDIA_MOSQUE_URLS = [
+    {"url": "https://en.wikipedia.org/wiki/East_London_Mosque", "country": "GB"},
+    {"url": "https://en.wikipedia.org/wiki/Birmingham_Central_Mosque", "country": "GB"},
+    {"url": "https://en.wikipedia.org/wiki/Edinburgh_Central_Mosque", "country": "GB"},
+    {"url": "https://en.wikipedia.org/wiki/Islamic_Cultural_Center_of_New_York", "country": "US"},
+    {"url": "https://en.wikipedia.org/wiki/Dar_Al-Hijrah_Islamic_Center", "country": "US"},
+    {"url": "https://en.wikipedia.org/wiki/Istiqlal_Mosque,_Jakarta", "country": "ID"},
+    {"url": "https://en.wikipedia.org/wiki/Sultan_Ahmed_Mosque", "country": "TR"},
+    {"url": "https://en.wikipedia.org/wiki/Hassan_II_Mosque", "country": "MA"},
+    {"url": "https://en.wikipedia.org/wiki/Faisal_Mosque", "country": "PK"},
+    {"url": "https://en.wikipedia.org/wiki/Badshahi_Mosque", "country": "PK"},
+    {"url": "https://en.wikipedia.org/wiki/Al-Azhar_Mosque", "country": "EG"},
+    {"url": "https://en.wikipedia.org/wiki/Mosque_of_Ibn_Tulun", "country": "EG"},
+    {"url": "https://en.wikipedia.org/wiki/National_Mosque_of_Malaysia", "country": "MY"},
+    {"url": "https://en.wikipedia.org/wiki/Putra_Mosque", "country": "MY"},
+    {"url": "https://en.wikipedia.org/wiki/Sheikh_Zayed_Grand_Mosque", "country": "AE"},
+    {"url": "https://en.wikipedia.org/wiki/Jumeirah_Mosque", "country": "AE"},
+    {"url": "https://en.wikipedia.org/wiki/Selimiye_Mosque", "country": "TR"},
+    {"url": "https://en.wikipedia.org/wiki/Paris_Mosque", "country": "FR"},
+    {"url": "https://en.wikipedia.org/wiki/Mosque_of_Rome", "country": "IT"},
+    {"url": "https://en.wikipedia.org/wiki/Islamic_Cultural_Centre_of_Ireland", "country": "IE"},
+    {"url": "https://en.wikipedia.org/wiki/Umayyad_Mosque", "country": "SY"},
+    {"url": "https://en.wikipedia.org/wiki/Crystal_Mosque", "country": "MY"},
+    {"url": "https://en.wikipedia.org/wiki/Masjid_Malcolm_Shabazz", "country": "US"},
+    {"url": "https://en.wikipedia.org/wiki/Wazir_Khan_Mosque", "country": "PK"},
+]
+
+ALL_SEED_URLS = WIKIPEDIA_MOSQUE_URLS

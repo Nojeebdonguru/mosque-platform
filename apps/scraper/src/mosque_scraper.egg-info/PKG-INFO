@@ -7,24 +7,13 @@ Requires-Dist: playwright==1.44.0
 Requires-Dist: openai==1.30.0
 Requires-Dist: pydantic==2.7.0
 Requires-Dist: pydantic-settings==2.3.0
-Requires-Dist: kafka-python==2.0.2
-Requires-Dist: redis==5.0.4
-Requires-Dist: psycopg2-binary==2.9.9
-Requires-Dist: sqlalchemy==2.0.30
 Requires-Dist: aiohttp==3.9.5
 Requires-Dist: phonenumbers==8.13.37
-Requires-Dist: geopy==2.4.1
 Requires-Dist: loguru==0.7.2
 Requires-Dist: tenacity==8.3.0
 Requires-Dist: python-dotenv==1.0.1
-Requires-Dist: celery==5.4.0
-Requires-Dist: boto3==1.34.0
 Provides-Extra: dev
 Requires-Dist: pytest==8.2.0; extra == "dev"
 Requires-Dist: pytest-asyncio==0.23.7; extra == "dev"
-Requires-Dist: pytest-cov==5.0.0; extra == "dev"
 Requires-Dist: ruff==0.4.7; extra == "dev"
 Requires-Dist: black==24.4.2; extra == "dev"
-Requires-Dist: mypy==1.10.0; extra == "dev"
-Requires-Dist: isort==5.13.2; extra == "dev"
-Requires-Dist: httpx==0.27.0; extra == "dev"
